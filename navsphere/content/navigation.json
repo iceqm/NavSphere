@@ -127,7 +127,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1770626657992",
+          "enabled": true,
+          "title": "恩山无线论坛 - Powered by Discuz!",
+          "href": "https://www.right.com.cn/forum/index.php",
+          "description": "访问 www.right.com.cn",
+          "icon": "/assets/favicon_1770626646601.png"
+        }
+      ],
       "subCategories": []
     },
     {
