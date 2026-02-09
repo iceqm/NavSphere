@@ -114,6 +114,72 @@
       "subCategories": []
     },
     {
+      "id": "8",
+      "title": "素材资源",
+      "icon": "linecons-thumbs-up",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "8_1",
+          "title": "图标素材",
+          "href": "#图标素材",
+          "icon": "",
+          "description": "",
+          "items": [
+            {
+              "id": "8_1_1",
+              "title": "Iconfinder",
+              "href": "https://www.iconfinder.com",
+              "description": "2,100,000+ free and premium vector icons.",
+              "icon": "/assets/images/logos/Iconfinder.webp",
+              "enabled": true
+            },
+            {
+              "id": "8_1_2",
+              "title": "iconfont",
+              "href": "http://www.iconfont.cn/",
+              "description": "阿里巴巴矢量图标库",
+              "icon": "/assets/images/logos/iconfont.webp",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "8_2",
+          "title": "LOGO设计",
+          "href": "#LOGO设计",
+          "icon": "",
+          "description": "",
+          "items": []
+        },
+        {
+          "id": "8_3",
+          "title": "平面素材",
+          "href": "#平面素材",
+          "icon": "",
+          "description": "",
+          "items": [
+            {
+              "id": "8_3_1",
+              "title": "Freepik",
+              "href": "https://www.freepik.com/",
+              "description": "免费矢量素材",
+              "icon": "/assets/images/logos/freepik.webp",
+              "enabled": true
+            },
+            {
+              "id": "8_3_2",
+              "title": "Unsplash",
+              "href": "https://unsplash.com/",
+              "description": "免费高清图片",
+              "icon": "/assets/images/logos/unsplash.webp",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -732,72 +798,6 @@
               "href": "https://zsxq.com/",
               "description": "知识星球是创作者连接铁杆粉丝，实现知识变现的工具。任何从事创作或艺术的人，例如艺术家、工匠、教师、学术研究、科普等，只要能获得一千位铁杆粉丝，就足够生计无忧，自由创作。社群管理、内容沉淀、链接粉丝等就在知识星球。",
               "icon": "/assets/favicon_1759043590213.webp",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8",
-      "title": "素材资源",
-      "icon": "linecons-thumbs-up",
-      "items": [],
-      "subCategories": [
-        {
-          "id": "8_1",
-          "title": "图标素材",
-          "href": "#图标素材",
-          "icon": "",
-          "description": "",
-          "items": [
-            {
-              "id": "8_1_1",
-              "title": "Iconfinder",
-              "href": "https://www.iconfinder.com",
-              "description": "2,100,000+ free and premium vector icons.",
-              "icon": "/assets/images/logos/Iconfinder.webp",
-              "enabled": true
-            },
-            {
-              "id": "8_1_2",
-              "title": "iconfont",
-              "href": "http://www.iconfont.cn/",
-              "description": "阿里巴巴矢量图标库",
-              "icon": "/assets/images/logos/iconfont.webp",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "8_2",
-          "title": "LOGO设计",
-          "href": "#LOGO设计",
-          "icon": "",
-          "description": "",
-          "items": []
-        },
-        {
-          "id": "8_3",
-          "title": "平面素材",
-          "href": "#平面素材",
-          "icon": "",
-          "description": "",
-          "items": [
-            {
-              "id": "8_3_1",
-              "title": "Freepik",
-              "href": "https://www.freepik.com/",
-              "description": "免费矢量素材",
-              "icon": "/assets/images/logos/freepik.webp",
-              "enabled": true
-            },
-            {
-              "id": "8_3_2",
-              "title": "Unsplash",
-              "href": "https://unsplash.com/",
-              "description": "免费高清图片",
-              "icon": "/assets/images/logos/unsplash.webp",
               "enabled": true
             }
           ]
