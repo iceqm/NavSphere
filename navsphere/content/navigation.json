@@ -100,7 +100,16 @@
       "icon": "Video",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1770623098428",
+          "enabled": true,
+          "title": "一席",
+          "href": "https://yixi.tv/#/home",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=yixi.tv"
+        }
+      ],
       "subCategories": []
     },
     {
