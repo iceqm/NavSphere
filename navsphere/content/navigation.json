@@ -69,6 +69,15 @@
       "subCategories": []
     },
     {
+      "id": "1770621871869",
+      "title": "音乐音频",
+      "icon": "Music",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1770621759479",
       "title": "论坛网站",
       "icon": "Home",
@@ -803,15 +812,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1770621871869",
-      "title": "音乐音频",
-      "icon": "Music",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "1770621920846",
