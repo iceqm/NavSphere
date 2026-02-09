@@ -60,6 +60,15 @@
       "subCategories": []
     },
     {
+      "id": "1770621690156",
+      "title": "影视资源",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -785,15 +794,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1770621690156",
-      "title": "影视资源",
-      "icon": "Video",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "1770621759479",
