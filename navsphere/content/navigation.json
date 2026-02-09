@@ -74,7 +74,16 @@
       "icon": "Coffee",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1770623009876",
+          "enabled": true,
+          "title": "今日热榜 - 全站热榜",
+          "href": "https://rebang.today/",
+          "description": "今日热榜汇聚全网热搜：知乎热榜、微博热搜、百度热搜、IT之家、36氪、少数派、豆瓣、小红书、百度贴吧、虎扑、虎嗅、天涯、哔哩哔哩、小众软件、抖音、吾爱破解、GitHub、技术期刊 全网热点 新闻 热词 排行榜 摸鱼神器",
+          "icon": "/assets/favicon_1770622995557.ico"
+        }
+      ],
       "subCategories": []
     },
     {
