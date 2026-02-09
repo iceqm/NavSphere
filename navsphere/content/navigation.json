@@ -56,7 +56,16 @@
       "icon": "BookOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1770622929945",
+          "enabled": true,
+          "title": "101看書-無廣告彈窗-全免費繁體小說網",
+          "href": "https://101kks.com/",
+          "description": "101看書免費提供最新熱門小說免費無彈窗無亂序全文閱讀。分享最新熱門小說，共享小說閱讀快樂，盡在101看書！",
+          "icon": "/assets/favicon_1770622913890.ico"
+        }
+      ],
       "subCategories": []
     },
     {
