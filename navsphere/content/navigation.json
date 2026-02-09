@@ -96,6 +96,15 @@
       "subCategories": []
     },
     {
+      "id": "1770621962597",
+      "title": "学习教育",
+      "icon": "Edit",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -821,15 +830,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1770621962597",
-      "title": "学习教育",
-      "icon": "Edit",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
