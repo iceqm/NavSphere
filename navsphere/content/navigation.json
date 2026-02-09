@@ -776,6 +776,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1770621690156",
+      "title": "影视资源",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
