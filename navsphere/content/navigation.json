@@ -51,6 +51,15 @@
       "enabled": true
     },
     {
+      "id": "1770621814332",
+      "title": "书籍小说",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -790,15 +799,6 @@
       "id": "1770621759479",
       "title": "论坛网站",
       "icon": "Home",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1770621814332",
-      "title": "书籍小说",
-      "icon": "BookOpen",
       "description": "",
       "enabled": true,
       "items": [],
