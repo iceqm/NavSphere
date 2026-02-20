@@ -134,6 +134,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=yixi.tv",
           "enabled": true
+        },
+        {
+          "id": "site_1771569106874_d5mtadoxj",
+          "title": "天翼小站",
+          "href": "https://www.leijing2.com/",
+          "description": "天翼云盘资源分享站，天翼云盘资源论坛，天翼云盘论坛，天翼云盘站，天翼云盘资源",
+          "icon": "/assets/favicon_1771569095357.jpg",
+          "enabled": true
         }
       ],
       "subCategories": []
