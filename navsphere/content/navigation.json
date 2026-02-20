@@ -150,6 +150,14 @@
           "description": "移动云盘小站论坛 移动云盘资源站 移动云盘论坛",
           "icon": "/assets/favicon_1771569138563.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1771569178486_1pyhy84we",
+          "title": "Leijing1",
+          "href": "https://www.leijing1.com/ ",
+          "description": "访问 www.leijing1.com",
+          "icon": "/assets/favicon_1771569170918.png",
+          "enabled": true
         }
       ],
       "subCategories": []
