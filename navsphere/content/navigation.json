@@ -44,14 +44,6 @@
           "description": "虫部落是一个纯粹的搜索知识、技术和经验分享平台，虫部落快搜、虫部落学术搜索等搜索聚合工具均为虫部落原创出品，搜索世界的乐趣，就在虫部落！",
           "icon": "/assets/favicon_1770554552526.ico",
           "enabled": true
-        },
-        {
-          "id": "1771568321733",
-          "title": "Www",
-          "href": "https://www.google.com",
-          "description": "访问 www",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www",
-          "enabled": true
         }
       ],
       "subCategories": [
